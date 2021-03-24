@@ -17,8 +17,9 @@
                 <br>
                 <a href="#"><h1 class="pt-4 link-light text-white text-seagram">Apariciones</h1></a>
                 <a href="view/chapter1.php"><h2 class="pt-4 link-light text-seagram">Capitulo 1</h2></a>
-                <a href=""><h2 class="pt-4 link-light text-seagram">Capitulo 2</h2></a>
-                <a href=""><h2 class="pt-4 link-light text-seagram">Capitulo 3</h2></a>
+                <a href="view/chapter2.php"><h2 class="pt-4 link-light text-seagram">Capitulo 2</h2></a>
+                <a href="view/chapter3.php"><h2 class="pt-4 link-light text-seagram">Capitulo 3</h2></a>
+                <a href="view/chapter4.php"><h2 class="pt-4 link-light text-seagram">Capitulo 4</h2></a>
            </div>
        </div>
    </div>

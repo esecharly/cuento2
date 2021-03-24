@@ -23,7 +23,7 @@
                 <br>
                 <br>
                 <a href="chapter1.php" class="btn btn-outline-light btn-lg text-seagram">Anterior Capitulo</a>
-                <a href="" class="btn btn-outline-light btn-lg text-seagram">Siguiente Capitulo</a>
+                <a href="chapter3.php" class="btn btn-outline-light btn-lg text-seagram">Siguiente Capitulo</a>
                 <br>
                 <br>
            </div>
