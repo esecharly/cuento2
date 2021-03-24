@@ -15,7 +15,7 @@
            <div class="col-xxl-4 text-center justify-content-center vertical-align pb-4 pt-4">
                 <br>
                 <br>
-                <a href=""><h1 class="pt-4 link-light text-seagram">Apariciones</h1></a>
+                <a href="#"><h1 class="pt-4 link-light text-white text-seagram">Apariciones</h1></a>
                 <a href="view/chapter1.php"><h2 class="pt-4 link-light text-seagram">Capitulo 1</h2></a>
                 <a href=""><h2 class="pt-4 link-light text-seagram">Capitulo 2</h2></a>
                 <a href=""><h2 class="pt-4 link-light text-seagram">Capitulo 3</h2></a>

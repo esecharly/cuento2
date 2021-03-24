@@ -17,12 +17,12 @@
                 <h2 class="pt-4 text-seagram">Capitulo 2</h2>
                 <br>
                 <br>
-                <p class="text-grotesque text-start">Hace varios días ya que algo extraño viene ocurriendo en casa, tenemos esa sensación de que siempre nos observan, un gran peso se posa sobre nuestros hombros. Cuando volteamos a veces se puede ver como si una persona saliera corriendo.</p>
-                <p class="text-grotesque text-start">Mis hijos dicen que ven pálidos niños asomándose por las ventanas. Yo no he querido decir lo que me sucedió, pues se pueden asustar más; pero en una ocasión, me despertó una luz que entraba por la ventana, llegaba directo a mis ojos, así que fui a correr la cortina, cuando me acerqué, encontré con una horrible cara arrugada y reseca, cuyos ojos color rojo vidrioso se movían de un lado a otro, mirando con total delirio. </p>
-                <img src="../raw/img/man-with-red-eyes.jpg" class="blink-1" alt="">
+                <p class="text-grotesque text-start">Tuve que observar ese perturbado rostro por largo tiempo, porque mis extremidades se negaban a responder, parecía una estaca bien clavada al suelo; mis manos pesan toneladas, no pude ni siquiera mover un solo dedo para correr la cortina, ni dar un par de pasos atrás. Solo estaba ahí parado, viendo como el me miraba. Tenía su demente mirada clavada en mis ojos, puedo jurar que sonreía con placer al causarme tanto miedo.</p>
+                <p class="text-grotesque text-start">De ese estado de petrificado, pasé rápidamente a sentirme invertebrado, no pude sostener mi cuerpo en pie cuando una mano se posó en mi hombro.</p>
+                <img src="../raw/img/360_F_323083872_30OUAQZYyxT5X7WCSUhHM0gFN8gk8lu1.jpg" class="blink-1 rounded-circle" alt="">
                 <br>
                 <br>
-                <a href="" class="btn btn-outline-light btn-lg text-seagram">Anterior Capitulo</a>
+                <a href="chapter1.php" class="btn btn-outline-light btn-lg text-seagram">Anterior Capitulo</a>
                 <a href="" class="btn btn-outline-light btn-lg text-seagram">Siguiente Capitulo</a>
                 <br>
                 <br>
