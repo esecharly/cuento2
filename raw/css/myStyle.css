@@ -1,0 +1,20 @@
+
+@font-face{
+    font-family: seagram;
+    src: url(../fonts/Seagram\ tfb.ttf);
+}
+
+.text-seagram{
+    font-family: seagram;
+    
+}
+
+@font-face{
+    font-family: grotesque;
+    src: url(../fonts/AronGrotesque-regular.ttf);
+}
+
+.text-grotesque{
+    font-family: grotesque;
+    font-size: 120%;
+}
